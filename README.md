@@ -64,8 +64,3 @@ On the validation set, the CatBoost model achieved an **Accuracy of approximatel
 3.  **Upload Data**: Upload `train.csv` and `test.csv` (obtained from the Kaggle competition) to your Colab environment.
 4.  **Run Cells**: Execute all cells in the notebook sequentially. The notebook will handle data loading, preprocessing, model training, evaluation, and generate a `submission.csv` file.
 
-## Files in this Repository
--   `[Your-Notebook-Name].ipynb`: The main Colab notebook containing all the code.
--   `train.csv`: The training dataset (Kaggle).
--   `test.csv`: The test dataset (Kaggle).
--   `submission.csv`: The generated submission file with predictions for the test set.
